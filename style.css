@@ -1,0 +1,160 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+/*---------------Start Section One Area---------------*/
+#section-1{
+    display: flex;
+}
+
+.width{
+    width: 50%;
+}
+
+#section-1 img{
+   width: 65%;
+   margin-left: 10px;
+}
+
+#section-1 .content-area{
+    padding: 70px 0 0 130px;
+}
+
+#section-1 .content-area p{
+    padding-right: 100px;
+}
+
+h1{
+    padding-right: 20px;
+    margin-bottom: 0;
+}
+
+#section-1 h1{
+    font-family: famosa heavy;
+    font-size: 60px;
+}
+span {
+    color: rgb(10, 189, 196);
+}
+
+button a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+button{
+    padding: 13px 30px;
+    background-color: rgb(253, 175, 7);
+    border: 0;
+    border-radius: 5px;
+}
+/*---------------End Section One Area---------------*/
+
+
+
+
+/*---------------Start Section Two Area---------------*/
+#section-2{
+    padding: 30px 0 0 100px;
+}
+
+#section-2 .box{
+    display: flex;
+}
+
+#section-2 h1{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 40px;
+    
+}
+
+.box .size{
+    width: 300px;
+    border-radius: 15px;
+    padding: 15px 0 20px 25px;
+    margin-left: 25px;
+}
+
+#section-2 img{
+    width: 130px;
+}
+
+#section-2 .box-left{
+    background-color: #d6d1b1;
+}
+
+#section-2 .box-middle{
+    background-color: #c7eecf;
+}
+
+#section-2 .box-right{
+    background-color:#d5e8ef;
+}
+/*---------------End Section Two Area---------------*/
+
+
+
+/*---------------Start Section Three Area---------------*/
+#section-3{
+    display: flex;
+    margin-top: 70px;
+}
+
+#section-3 .image-area{
+    width: 40%;
+}
+
+
+#section-3 img{
+   width: 70%;
+   margin-left: 120px;
+   
+}
+
+#section-3 .content-area{
+    width: 60%;
+    padding-left: 60px;
+}
+
+#section-3 p{
+    padding-right: 120px;
+}
+
+#section-3 h1{
+    font-size: 30px;
+}
+/*---------------End Section Three Area---------------*/
+
+
+/*---------------Start Section Four Area---------------*/
+#section-4{
+    display: flex;
+    margin-top: 70px;
+}
+
+#section-4 .image-area{
+    width: 40%;
+}
+
+
+#section-4 img{
+   width: 70%;
+}
+
+#section-4 .content-area{
+    margin-left: 120px;
+    width: 60%;
+}
+
+#section-4 .content-area p{
+    padding-right: 120px;
+}
+
+#section-4 h1{
+    font-size: 30px;
+}
